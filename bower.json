@@ -1,0 +1,19 @@
+{
+    "name": "Country_Abbreviations_flags",
+    "version": "1.0.0",
+    "homepage": "https://github.com/steptobe/Country_Abbreviations_flags",
+    "description": "Flags are 247 icons — in GIF and PNG formats — representing most countries in the world as small pixel icons. These flag icons are available for free use for any purpose with no requirement for attribution.",
+    "keywords": [
+        "famfamfam",
+        "icon",
+        "flag",
+        "img",
+        "png",
+        "gif",
+        "Country Abbreviations",
+    ],
+    "license": "MIT",
+    "authors": [
+        "steptobe"
+    ]
+}
